@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+
+  <property>
+    <name>hbase.zookeeper.quorum</name>
+    <value>hbasemaster41.et2.tbsite.net,hbasemaster38.et2.tbsite.net,hbase0903.et2.tbsite.net,hbasemaster41.et2.tbsite.net,hbasemaster42.et2.tbsite.net</value>
+  </property>
+
+  <property>
+    <name>zookeeper.znode.parent</name>
+    <value>/hbase-et2-app</value>
+  </property>
+  <!--The above are the important configurations for getting hbase up and 
+  running -->
+</configuration>

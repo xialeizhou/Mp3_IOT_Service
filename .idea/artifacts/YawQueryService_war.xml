@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="YawQueryService:war">
+    <output-path>$PROJECT_DIR$/../Mp3IotAndroidService/target</output-path>
+    <root id="archive" name="mp3-iot-service-1.0.war">
+      <element id="artifact" artifact-name="YawQueryService:war exploded" />
+    </root>
+  </artifact>
+</component>
