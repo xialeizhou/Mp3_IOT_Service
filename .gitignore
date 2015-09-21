@@ -1,1 +1,2 @@
 /target/*
+!target/mp3-iot-service-1.0.war
